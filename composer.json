@@ -1,0 +1,17 @@
+{
+  "name": "350org/domain-mapping-3p",
+  "description": "The ultimate Multisite domain mapping plugin - sync cookies, sell domains with eNom, and integrate with Pro Sites.",
+  "version": "4.4.3.4",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/350org/domain-mapping-3p",
+  "authors": [
+    {
+      "name": "WPMU DEV",
+      "homepage": "http://premium.wpmudev.org"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
